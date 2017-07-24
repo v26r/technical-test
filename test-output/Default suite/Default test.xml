@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="GB07953" name="TechincalTest.basics" tests="1" failures="0" timestamp="23 Jul 2017 14:08:03 GMT" time="2.787" errors="0">
+  <testcase name="getPlaceAPI" time="2.77" classname="TechincalTest.basics"/>
+</testsuite>
